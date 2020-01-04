@@ -1,0 +1,7 @@
+{
+  "prefix": "disp",
+  "name": "componentWillUnmount() lifecycle method",
+  "body": "function mapDispatchToProps(dispatch) {\n  return {\n\t};\n\n}",
+  "description": "Adds the redux mapDispatchToProps function",
+  "info": "The original snippet was taken from https://github.com/xabikos/vscode-react"
+}

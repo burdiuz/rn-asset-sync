@@ -1,0 +1,7 @@
+{
+  "prefix": "cst",
+  "name": "Class Component State properties",
+  "body": "static getDerivedStateFromProps(props, state) {\n  return {\n  \n  };\n};\n\nstate = {};",
+  "description": "Creates empty state for class component",
+  "info": "The original snippet was taken from https://github.com/xabikos/vscode-react" 
+}

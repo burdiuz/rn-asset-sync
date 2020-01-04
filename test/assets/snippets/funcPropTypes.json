@@ -1,0 +1,14 @@
+{
+  "prefix": "fptd",
+  "name": "Functional Component PropTypes properties",
+  "parameters": [
+    {
+      "name": "ComponentName",
+      "label": "Component Name",
+      "defaultValue": ""
+    }
+  ],
+  "body": "${ComponentName}.propTypes = {\n\n};\n${ComponentName}.defaultProps = {\n\n};",
+  "description": "Creates empty propTypes and defaultProps declarations for functional component",
+  "info": "The original snippet was taken from https://github.com/xabikos/vscode-react"
+}

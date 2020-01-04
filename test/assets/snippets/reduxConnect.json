@@ -1,0 +1,12 @@
+{
+    "name": "react-redux connect()",
+    "parameters": [
+      {
+        "name": "ComponentName",
+        "label": "Component Name",
+        "defaultValue": ""
+      }
+    ],
+    "body": "connect(\n  (state, props) => {\n    const {  } = props;\n\n    return {\n      \n    };\n  },\n  (dispatch, props) => {\n    const {  } = props;\n\n    return {\n      \n    };\n  },\n)(${ComponentName});\n",
+    "description": "Adds react-redux connect() call for a component"
+  }

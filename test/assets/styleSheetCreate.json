@@ -1,0 +1,17 @@
+{
+    "name": "StyleSheet.create()",
+    "parameters": [
+      {
+        "name": "ConstantName",
+        "label": "Constant Name",
+        "defaultValue": "styles"
+      },
+      {
+        "name": "StyleName",
+        "label": "Style Name",
+        "defaultValue": "container"
+      }
+    ],
+    "body": "const ${ConstantName} = StyleSheet.create({\n  ${StyleName}: {\n\n  },\n});\n",
+    "description": "Adds styles constant with StyleSheet.create()"
+  }
